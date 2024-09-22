@@ -1,0 +1,108 @@
+.container{
+    width: 80%;
+    background-color: white;
+}
+
+body a{
+    text-decoration: none;
+    color: #000;
+}
+
+body p{
+    color: #000000;
+}
+
+a .price{
+    color:rgb(255,208,0);
+    font-weight: 600;
+}
+.logo{
+    width: 150px;
+    height: 68px;
+}
+.navbarr{
+    position:sticky;
+    top:0;
+    z-index: 99;
+}
+.sochal{
+
+    width: 200px;
+}
+
+.sliderMain div img{
+    width: 1000px; ;
+    height: 450px; ;
+}
+
+.border{
+    width: 100%; 
+  height: 4px; 
+  background: linear-gradient(to right, rgb(255, 255, 0) 7%, #777777 93%);
+  border: 2px solid black
+}
+
+
+.latestIteam{
+    flex-wrap: wrap;
+}
+
+
+.products{
+    width: 20%;
+}
+.products img{
+    width: 300px;
+    height: 300px;
+}
+
+.products p{
+    text-align: center;
+}
+
+
+
+
+.footerStart{
+
+}
+
+.footerStart img{
+    width: 100px;
+    height: 50px;
+
+}
+section .slick-next:before,
+section .slick-prev:before{
+color: #000000;
+font-size: 24px;
+}
+
+.para{
+    margin-top: 150px;
+}
+.paraStart{
+    flex-direction:column;
+    justify-content: center;
+}
+.para div img{
+    width: 650px;
+    height: 366px;
+}
+
+.para p{
+    font: 14 Hind;
+    color: #747474;
+}
+.ms-end{
+    margin-left: 200px;
+}
+.footerEnd{
+    margin-left: 200px;
+}
+.buttonStyle{
+    color: #FFFFFF;
+    background-color: #000000;
+    width: 100px;
+    height: 30px;
+}
